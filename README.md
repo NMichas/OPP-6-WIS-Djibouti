@@ -26,6 +26,21 @@ A:
 2. Q: Do we care for the format/columns of the CSVs? Is there a standard to be used?  
 A:
 
+>// Read and DELETE this note
+>[note: schema.org markup could be automatically generated from the CSV file - 
+>https://www.w3.org/TR/tabular-data-primer/ 
+> and 
+> https://www.w3.org/TR/csv2json/#example-events-listing]
+>
+>Tabular data is any data that can be arranged in a table.
+>
+>Note:It's not clear at the moment which metadata vocabulary will give publishers the most benefits. Search engines are likely to >recognise schema.org. RDF-based systems are more likely to recognise Dublin Core.
+>
+> ----
+>The goal is to convert the CSV content into schema.org markup that a search engine such as Google can use to index music events. 
+>Details of how Google expects this information to be structured can be found (https://developers.google.com/structured->data/events/performers?hl=en&rd=1)
+
+
 3. Q: We will need some sample CSVs, who is going to prepare/provide them?  
 A:
 
